@@ -1,9 +1,3 @@
-spring:
-  thymeleaf:
-    cache: false
-    enabled: true
-    prefix: classpath:/templates/
-    suffix: .html
 server:
   port: 8181
 default-percent: 0.20
