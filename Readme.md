@@ -7,13 +7,13 @@
 
 Использованы Spring Boot (v2.2.4), [__Vue__](https://ru.vuejs.org), [Vuetify](https://vuetifyjs.com)
 
-####Цель
+#### Цель
 
 Сделать приложение, содержащее SPA-клиент на Vue и backend на Spring Boot.
 При этом разместить в одном maven проекте должны быть расположены и frontend
  и backend. 
  
-####Запуск
+#### Запуск
 
 ```shell script
 git clone https://github.com/cherepakhin/calculator-vue.git
