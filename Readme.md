@@ -23,6 +23,8 @@ mvn spring-boot:run
 
 Проверить работу по адресу http://<хост>:8181
 
+![screen](doc/screen.png)
+
 #### Docker
 
 Команды для работы с docker образом лежат в файлах _build.sh_ и _run-daemon.sh_. Настройка в Dockerfile.
