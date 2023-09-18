@@ -15,11 +15,19 @@
  
 #### Запуск
 
+Backend:
+
 ```shell script
 git clone https://github.com/cherepakhin/calculator-vue.git
-cd calculator-vue
+cd calculator-vue/backend
 mvn spring-boot:run
 ```
+
+Frontend:
+
+```shell script
+yarn serve
+````
 
 Проверить работу по адресу http://127.0.0.1:8080
 
