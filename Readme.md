@@ -21,7 +21,7 @@ cd calculator-vue
 mvn spring-boot:run
 ```
 
-Проверить работу по адресу http://<хост>:8181
+Проверить работу по адресу http://<хост>:8080
 
 ![screen](doc/screen.png)
 
