@@ -1,5 +1,7 @@
 # calc-credit
 
+![screen](doc/screen.png)
+
 ## Project setup
 ```
 yarn install
