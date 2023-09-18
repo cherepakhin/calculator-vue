@@ -52,6 +52,6 @@ sudo docker push cherepakhin/calc-vue:v1
 sudo docker pull cherepakhin/calc-vue:v1
 
 # Запуск образа cherepakhin/calc-vue:v1, проброс портов 8081->8081
-sudo docker run -d --rm -p 8181:8181 cherepakhin/calc-vue:v1
+sudo docker run -d --rm -p 4000:4000 cherepakhin/calc-vue:v1
 
 ```  
