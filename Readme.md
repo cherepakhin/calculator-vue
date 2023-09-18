@@ -26,6 +26,7 @@ mvn spring-boot:run
 Frontend:
 
 ```shell script
+cd calculator-vue/frontend
 yarn serve
 ````
 
