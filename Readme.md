@@ -30,7 +30,7 @@ cd calculator-vue/frontend
 yarn serve
 ````
 
-Проверить работу по адресу http://127.0.0.1:8080
+Проверить работу по адресу http://127.0.0.1:4000
 
 ![screen](doc/screen.png)
 
